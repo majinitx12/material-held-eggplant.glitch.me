@@ -3,5 +3,5 @@ services:
   nebula:
     image: nebula:latest
     build: .
-    container_name: nebula
+    container_name: penguin
     restart: unless-stopped
