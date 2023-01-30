@@ -1,6 +1,6 @@
 module.exports = {
     apps: [{
-        name: "Site",
+        name: "Penguin",
         script: "proxysocks node app.js"
     }]
 }

@@ -1,7 +1,7 @@
 {
     "name": "penguin-web",
     "version": "7.10",
-    "description": "Explore the web. Freely.",
+    "description": "Enjoy:)",
     "type": "module",
     "main": "app.js",
     "scripts": {
